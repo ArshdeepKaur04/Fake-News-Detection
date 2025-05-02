@@ -1,0 +1,41 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Text Preprocessing
+nltk
+spacy
+emoji
+
+# Sentence Transformers (MiniLM Embeddings)
+sentence-transformers
+
+# Hugging Face Transformers & Tokenizers
+transformers
+datasets
+accelerate
+evaluate
+
+# Model Training
+torch
+optuna  # (for hyperparameter tuning if needed)
+
+# Optional Caching & Performance
+joblib
+tqdm
+
+# UI (Optional)
+gradio
+streamlit
+
+# Environment & Secrets
+python-dotenv
+
+# Jupyter
+notebook
+ipykernel
+
+wordcloud
